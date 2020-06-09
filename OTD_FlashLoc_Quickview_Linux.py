@@ -40,7 +40,7 @@ from cartopy.mpl.gridliner import LONGITUDE_FORMATTER, LATITUDE_FORMATTER
 
 #Initial file path. It can be changed by passing a different path as an argument
 #to the main() function
-file_path = 'D:/data_recipes/otd/'
+file_path = '/home/data_recipes/otd/'
 
 def main(file_path):
 
