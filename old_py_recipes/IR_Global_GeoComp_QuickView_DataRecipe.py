@@ -21,11 +21,11 @@ import struct
 import matplotlib.pyplot as plt
  
 # Define the file path to the desired date file 
-globir="C:/Users/lsinclair/Desktop/globalIR/globir.17019.0545" #Place path to file here using forward slashes
+globir="test_files/globir.17019.0545" #Place path to file here using forward slashes
 try:
    IN=open(globir, 'rb')
 except:
-   print 'Error: opening file', globir
+   print ('Error: opening file', globir)
    exit(1)
  
 # Read the first 768 bytes of the file containing the header and navigation information
@@ -57,11 +57,11 @@ fig.axes.get_yaxis().set_visible(False)
 try:
    plt.savefig(globir+".png", dpi=400, bbox_inches='tight', pad_inches=0)
 except:
-   print 'Error: saving figure to',globir+".png"
+   print ('Error: saving figure to',globir+".png")
    exit(1)
 else:
-   print 'Success, saved to', globir+".png"
+   print ('Success, saved to', globir+".png")
 plt.close('all')
 exit(0)
 
-print "Image created"
+print ("Image created")

@@ -34,7 +34,7 @@ from cartopy.mpl.gridliner import LONGITUDE_FORMATTER, LATITUDE_FORMATTER
 
 #Initial file path. It can be changed by passing a different path as an argument
 #to the main() function
-file_path = 'D:/data_recipes/iss_lis/data/'
+file_path = 'test_files/iss_lis'
 
 def main(file_path):
   
@@ -63,8 +63,8 @@ def main(file_path):
         orbit_end.append(end_value)
 
     #From the start and end times, calculate the minimum and maximum date of the files
-    start_dates = num2date(orbit_start[:], start_value_units.units)
-    stop_dates = num2date(orbit_end[:], end_value_units.units)
+    start_dates = num2date(orbit_start[:], units=start_value_units.units)
+    stop_dates = num2date(orbit_end[:], units=end_value_units.units)
 
     begin_date_value = min(start_dates)
     end_date_value = max(stop_dates)

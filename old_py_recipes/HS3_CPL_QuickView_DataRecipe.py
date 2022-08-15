@@ -24,7 +24,7 @@ from pydap.client import open_url
 
 #Define the OPeNDAP path and desired file name
 datafile = open_url('https://ghrc.nsstc.nasa.gov/opendap/fieldCampaigns/hs3/CPL/data/2012/hdf/0906/HS3_CPL_ATB_12203a_20120906.hdf5')
-print datafile.keys() #Shows all parameters within datafile
+print (datafile.keys()) #Shows all parameters within datafile
 
 
 #### Import Python packages ####
@@ -58,7 +58,7 @@ Bin_Alt = datafile['Bin_Alt'][:]
 #The date information is in seconds since the start of the year the CPL profile was collected.
 #This portion extracts those values and converts them to a standard date format
 time_format = '%H:%M:%S'
-reference_time = datetime((datetime.strptime(datafile['Date'][0], date_format)).year - 1, 12, 31)
+reference_time = datetime((datetime.strptime(str(datafile['Date'][0]), date_format)).year - 1, 12, 31)
 Var_Time = datafile['Dec_JDay'][:]
 
 

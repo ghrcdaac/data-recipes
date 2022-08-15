@@ -20,7 +20,7 @@
 
 # In[ ]:
 
-import pydap
+#import pydap
 from pydap.client import open_url
 
 
@@ -29,7 +29,7 @@ from pydap.client import open_url
 # In[ ]:
 
 datafile = open_url('https://ghrc.nsstc.nasa.gov/opendap/fieldCampaigns/hs3/HAMSR/data/2013/HAMSR_L2_20130915T061329_20130916T050512_v01.nc')
-print datafile.keys()
+print (datafile.keys())
 
 
 # # Let's plot the ham_dBz field

@@ -23,7 +23,7 @@ import numpy
 from osgeo import gdal
 from osgeo.gdalnumeric import *  
 from osgeo.gdalconst import *
-import osr
+#import osr
 import tables
 from pyproj import Proj, transform
 

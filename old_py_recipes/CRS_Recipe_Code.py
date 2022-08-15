@@ -38,7 +38,7 @@ from CRS_Recipe_Functions import select_campaign, select_flight_olympex, select_
 # Set Path where CRS raw data are stored locally. It can be changed by passing 
 # a different path as an argument to the main() function in the command prompt
 # *****************************************************************************
-file_path = 'C:/Users/name/data_recipes/crs/'
+file_path = 'test_files/crs/'
 
 def main(file_path):
 
