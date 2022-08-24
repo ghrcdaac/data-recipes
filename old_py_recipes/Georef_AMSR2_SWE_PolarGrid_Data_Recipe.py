@@ -23,6 +23,10 @@ import numpy
 from osgeo import gdal, osr
 from osgeo.gdalnumeric import *  
 from osgeo.gdalconst import *
+<<<<<<< HEAD:old_py_recipes/Georef_AMSR2_SWE_PolarGrid_Data_Recipe.py
+=======
+#import osr
+>>>>>>> 4eee8ad9ad6124275128bee110bbcc56db4e7928:Georef_AMSR2_SWE_PolarGrid_Data_Recipe.py
 import tables
 from pyproj import Proj, transform
 

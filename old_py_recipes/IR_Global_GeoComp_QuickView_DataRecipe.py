@@ -21,7 +21,11 @@ import struct
 import matplotlib.pyplot as plt
  
 # Define the file path to the desired date file 
+<<<<<<< HEAD:old_py_recipes/IR_Global_GeoComp_QuickView_DataRecipe.py
 globir="test_files/globir.22007.0120" #Place path to file here using forward slashes
+=======
+globir="test_files/globir.17019.0545" #Place path to file here using forward slashes
+>>>>>>> 4eee8ad9ad6124275128bee110bbcc56db4e7928:IR_Global_GeoComp_QuickView_DataRecipe.py
 try:
    IN=open(globir, 'rb')
 except:
