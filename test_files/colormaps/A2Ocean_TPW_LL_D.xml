@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.0.xsd"
+      units="mm">
+  <ColorMapEntry rgb="017,017,017" transparent="true" value="[0.0,1.0)" label="0.0 - 1.0 mm"/>
+  <ColorMapEntry rgb="101,207,164" transparent="false" value="[1.0,2.0)" label="1.0 - 2.0 mm"/>
+  <ColorMapEntry rgb="101,207,160" transparent="false" value="[2.0,3.0)" label="2.0 - 3.0 mm"/>
+  <ColorMapEntry rgb="097,207,155" transparent="false" value="[3.0,4.0)" label="3.0 - 4.0 mm"/>
+  <ColorMapEntry rgb="098,209,153" transparent="false" value="[4.0,5.0)" label="4.0 - 5.0 mm"/>
+  <ColorMapEntry rgb="096,209,148" transparent="false" value="[5.0,6.0)" label="5.0 - 6.0 mm"/>
+  <ColorMapEntry rgb="096,209,144" transparent="false" value="[6.0,7.0)" label="6.0 - 7.0 mm"/>
+  <ColorMapEntry rgb="094,209,138" transparent="false" value="[7.0,8.0)" label="7.0 - 8.0 mm"/>
+  <ColorMapEntry rgb="095,212,136" transparent="false" value="[8.0,9.0)" label="8.0 - 9.0 mm"/>
+  <ColorMapEntry rgb="093,212,131" transparent="false" value="[9.0,10.0)" label="9.0 - 10.0 mm"/>
+  <ColorMapEntry rgb="093,212,126" transparent="false" value="[10.0,11.0)" label="10.0 - 11.0 mm"/>
+  <ColorMapEntry rgb="089,212,119" transparent="false" value="[11.0,12.0)" label="11.0 - 12.0 mm"/>
+  <ColorMapEntry rgb="090,214,116" transparent="false" value="[12.0,13.0)" label="12.0 - 13.0 mm"/>
+  <ColorMapEntry rgb="088,214,110" transparent="false" value="[13.0,14.0)" label="13.0 - 14.0 mm"/>
+  <ColorMapEntry rgb="088,214,106" transparent="false" value="[14.0,15.0)" label="14.0 - 15.0 mm"/>
+  <ColorMapEntry rgb="086,214,099" transparent="false" value="[15.0,16.0)" label="15.0 - 16.0 mm"/>
+  <ColorMapEntry rgb="087,217,096" transparent="false" value="[16.0,17.0)" label="16.0 - 17.0 mm"/>
+  <ColorMapEntry rgb="082,217,087" transparent="false" value="[17.0,18.0)" label="17.0 - 18.0 mm"/>
+  <ColorMapEntry rgb="082,217,082" transparent="false" value="[18.0,19.0)" label="18.0 - 19.0 mm"/>
+  <ColorMapEntry rgb="085,217,080" transparent="false" value="[19.0,20.0)" label="19.0 - 20.0 mm"/>
+  <ColorMapEntry rgb="091,219,081" transparent="false" value="[20.0,21.0)" label="20.0 - 21.0 mm"/>
+  <ColorMapEntry rgb="094,219,079" transparent="false" value="[21.0,22.0)" label="21.0 - 22.0 mm"/>
+  <ColorMapEntry rgb="099,219,079" transparent="false" value="[22.0,23.0)" label="22.0 - 23.0 mm"/>
+  <ColorMapEntry rgb="102,219,077" transparent="false" value="[23.0,24.0)" label="23.0 - 24.0 mm"/>
+  <ColorMapEntry rgb="108,222,078" transparent="false" value="[24.0,25.0)" label="24.0 - 25.0 mm"/>
+  <ColorMapEntry rgb="110,222,073" transparent="false" value="[25.0,26.0)" label="25.0 - 26.0 mm"/>
+  <ColorMapEntry rgb="115,222,073" transparent="false" value="[26.0,27.0)" label="26.0 - 27.0 mm"/>
+  <ColorMapEntry rgb="119,222,071" transparent="false" value="[27.0,28.0)" label="27.0 - 28.0 mm"/>
+  <ColorMapEntry rgb="125,224,072" transparent="false" value="[28.0,29.0)" label="28.0 - 29.0 mm"/>
+  <ColorMapEntry rgb="129,224,070" transparent="false" value="[29.0,30.0)" label="29.0 - 30.0 mm"/>
+  <ColorMapEntry rgb="135,224,070" transparent="false" value="[30.0,31.0)" label="30.0 - 31.0 mm"/>
+  <ColorMapEntry rgb="138,224,065" transparent="false" value="[31.0,32.0)" label="31.0 - 32.0 mm"/>
+  <ColorMapEntry rgb="145,227,066" transparent="false" value="[32.0,33.0)" label="32.0 - 33.0 mm"/>
+  <ColorMapEntry rgb="150,227,064" transparent="false" value="[33.0,34.0)" label="33.0 - 34.0 mm"/>
+  <ColorMapEntry rgb="155,227,064" transparent="false" value="[34.0,35.0)" label="34.0 - 35.0 mm"/>
+  <ColorMapEntry rgb="160,227,061" transparent="false" value="[35.0,36.0)" label="35.0 - 36.0 mm"/>
+  <ColorMapEntry rgb="168,230,062" transparent="false" value="[36.0,37.0)" label="36.0 - 37.0 mm"/>
+  <ColorMapEntry rgb="172,230,057" transparent="false" value="[37.0,38.0)" label="37.0 - 38.0 mm"/>
+  <ColorMapEntry rgb="178,230,057" transparent="false" value="[38.0,39.0)" label="38.0 - 39.0 mm"/>
+  <ColorMapEntry rgb="184,230,055" transparent="false" value="[39.0,40.0)" label="39.0 - 40.0 mm"/>
+  <ColorMapEntry rgb="192,232,056" transparent="false" value="[40.0,41.0)" label="40.0 - 41.0 mm"/>
+  <ColorMapEntry rgb="198,232,053" transparent="false" value="[41.0,42.0)" label="41.0 - 42.0 mm"/>
+  <ColorMapEntry rgb="204,232,053" transparent="false" value="[42.0,43.0)" label="42.0 - 43.0 mm"/>
+  <ColorMapEntry rgb="210,232,051" transparent="false" value="[43.0,44.0)" label="43.0 - 44.0 mm"/>
+  <ColorMapEntry rgb="219,235,052" transparent="false" value="[44.0,45.0)" label="44.0 - 45.0 mm"/>
+  <ColorMapEntry rgb="225,235,047" transparent="false" value="[45.0,46.0)" label="45.0 - 46.0 mm"/>
+  <ColorMapEntry rgb="231,235,047" transparent="false" value="[46.0,47.0)" label="46.0 - 47.0 mm"/>
+  <ColorMapEntry rgb="235,231,045" transparent="false" value="[47.0,48.0)" label="47.0 - 48.0 mm"/>
+  <ColorMapEntry rgb="237,227,045" transparent="false" value="[48.0,49.0)" label="48.0 - 49.0 mm"/>
+  <ColorMapEntry rgb="237,220,043" transparent="false" value="[49.0,50.0)" label="49.0 - 50.0 mm"/>
+  <ColorMapEntry rgb="237,213,043" transparent="false" value="[50.0,51.0)" label="50.0 - 51.0 mm"/>
+  <ColorMapEntry rgb="237,206,038" transparent="false" value="[51.0,52.0)" label="51.0 - 52.0 mm"/>
+  <ColorMapEntry rgb="240,201,038" transparent="false" value="[52.0,53.0)" label="52.0 - 53.0 mm"/>
+  <ColorMapEntry rgb="240,193,036" transparent="false" value="[53.0,54.0)" label="53.0 - 54.0 mm"/>
+  <ColorMapEntry rgb="240,186,036" transparent="false" value="[54.0,55.0)" label="54.0 - 55.0 mm"/>
+  <ColorMapEntry rgb="240,178,034" transparent="false" value="[55.0,56.0)" label="55.0 - 56.0 mm"/>
+  <ColorMapEntry rgb="242,173,034" transparent="false" value="[56.0,57.0)" label="56.0 - 57.0 mm"/>
+  <ColorMapEntry rgb="242,165,031" transparent="false" value="[57.0,58.0)" label="57.0 - 58.0 mm"/>
+  <ColorMapEntry rgb="242,157,031" transparent="false" value="[58.0,59.0)" label="58.0 - 59.0 mm"/>
+  <ColorMapEntry rgb="242,148,027" transparent="false" value="[59.0,60.0)" label="59.0 - 60.0 mm"/>
+  <ColorMapEntry rgb="245,142,027" transparent="false" value="[60.0,61.0)" label="60.0 - 61.0 mm"/>
+  <ColorMapEntry rgb="245,133,024" transparent="false" value="[61.0,62.0)" label="61.0 - 62.0 mm"/>
+  <ColorMapEntry rgb="245,125,024" transparent="false" value="[62.0,63.0)" label="62.0 - 63.0 mm"/>
+  <ColorMapEntry rgb="245,116,022" transparent="false" value="[63.0,64.0)" label="63.0 - 64.0 mm"/>
+  <ColorMapEntry rgb="247,109,022" transparent="false" value="[64.0,65.0)" label="64.0 - 65.0 mm"/>
+  <ColorMapEntry rgb="247,098,017" transparent="false" value="[65.0,66.0)" label="65.0 - 66.0 mm"/>
+  <ColorMapEntry rgb="247,090,017" transparent="false" value="[66.0,67.0)" label="66.0 - 67.0 mm"/>
+  <ColorMapEntry rgb="247,080,015" transparent="false" value="[67.0,68.0)" label="67.0 - 68.0 mm"/>
+  <ColorMapEntry rgb="250,073,015" transparent="false" value="[68.0,69.0)" label="68.0 - 69.0 mm"/>
+  <ColorMapEntry rgb="250,062,012" transparent="false" value="[69.0,70.0)" label="69.0 - 70.0 mm"/>
+  <ColorMapEntry rgb="250,054,012" transparent="false" value="[70.0,71.0)" label="70.0 - 71.0 mm"/>
+  <ColorMapEntry rgb="250,044,010" transparent="false" value="[71.0,72.0)" label="71.0 - 72.0 mm"/>
+  <ColorMapEntry rgb="252,036,010" transparent="false" value="[72.0,73.0)" label="72.0 - 73.0 mm"/>
+  <ColorMapEntry rgb="252,022,005" transparent="false" value="[73.0,74.0)" label="73.0 - 74.0 mm"/>
+  <ColorMapEntry rgb="252,014,005" transparent="false" value="[74.0,75.0)" label="74.0 - 75.0 mm"/>
+  <ColorMapEntry rgb="252,003,003" transparent="false" value="[75.0,+INF)" label="75.0+ mm"/>
+  <ColorMapEntry rgb="000,000,000" transparent="true" label="Fill"/>
+</ColorMap>
